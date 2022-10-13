@@ -11,6 +11,13 @@ Center for Machine Vision and Security Research
     2022, pp. 83–98. www.aimspress.com, https://doi.org/10.3934/aci.2022005.
 
     [Link to code](https://github.com/CMVSR/def-model-review)
+    
+  - Noah Gardner, John Paul Hellenbrand, Anthony Phan, Haige Zhu, Zhiling Long,
+    Min Wang, Clint A. Penick, Chih-Cheng Hung. Investigation of ant cuticle 
+    dataset using image texture analysis[J]. Applied Computing and Intelligence,
+    2022, 2(2): 133-151. doi: 10.3934/aci.2022008
+    
+    [Link to code](https://github.com/CMVSR/cuticulus)
 
 - 2021
 
